@@ -1,3 +1,6 @@
+http://jeffreybreen.wordpress.com/2011/07/04/twitter-text-mining-r-slides/
+Thanks for the source code by Jeffrey
+
 score.sentiment = function(sentences, pos.words, neg.words, .progress='none')
 {
     require(plyr)
